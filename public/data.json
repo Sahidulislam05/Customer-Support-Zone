@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1001,
+    "title": "Cannot login to account",
+    "description": "User reports that they are unable to login with correct credentials.",
+    "customer": "Alice Johnson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-20"
+  },
+  {
+    "id": 1002,
+    "title": "Payment not going through",
+    "description": "Customer tried to pay but the transaction fails with error code 502.",
+    "customer": "Bob Smith",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-19"
+  },
+  {
+    "id": 1003,
+    "title": "Typo on homepage",
+    "description": "There's a spelling mistake in the welcome banner.",
+    "customer": "Carol Lee",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In Progress",
+    "createdAt": "2025-09-18"
+  },
+  {
+    "id": 1004,
+    "title": "Feature request: Dark mode",
+    "description": "User suggests adding a dark mode theme option.",
+    "customer": "David Kim",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-17"
+  },
+  {
+    "id": 1005,
+    "title": "Bug in email notifications",
+    "description": "User did not receive email when ticket was updated.",
+    "customer": "Eva Green",
+    "priority": "HIGH PRIORITY",
+    "status": "In Progress",
+    "createdAt": "2025-09-16"
+  },
+  {
+    "id": 1006,
+    "title": "App crash on launch",
+    "description": "Mobile app crashes immediately after launching.",
+    "customer": "Frank Wu",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-15"
+  },
+  {
+    "id": 1007,
+    "title": "Unable to reset password",
+    "description": "Password reset link sends user to 404 page.",
+    "customer": "Grace Park",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-14"
+  },
+  {
+    "id": 1008,
+    "title": "Slow loading dashboard",
+    "description": "Dashboard takes too long to load after login.",
+    "customer": "Henry Allen",
+    "priority": "LOW PRIORITY",
+    "status": "In Progress",
+    "createdAt": "2025-09-13"
+  },
+  {
+    "id": 1009,
+    "title": "Incorrect data in reports",
+    "description": "Monthly reports show wrong totals for sales.",
+    "customer": "Isabella Davis",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-12"
+  },
+  {
+    "id": 10010,
+    "title": "Request for invoice copy",
+    "description": "Customer needs an invoice for last month's purchase.",
+    "customer": "Jack Hayes",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In Progress",
+    "createdAt": "2025-09-11"
+  },
+  {
+    "id": 10011,
+    "title": "UI layout breaks on mobile",
+    "description": "Elements overlap when viewing on small screen devices.",
+    "customer": "Karen Oz",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-10"
+  },
+  {
+    "id": 10012,
+    "title": "Feature request: Multi-language support",
+    "description": "User would like to use the app in Spanish.",
+    "customer": "Liam Turner",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-09"
+  },
+  {
+    "id": 10013,
+    "title": "Problem with two-factor authentication",
+    "description": "2FA codes not being accepted even when correct.",
+    "customer": "Mia Chen",
+    "priority": "HIGH PRIORITY",
+    "status": "In Progress",
+    "createdAt": "2025-09-08"
+  },
+  {
+    "id": 10014,
+    "title": "Broken link in footer",
+    "description": "Privacy Policy link returns 404.",
+    "customer": "Noah Patel",
+    "priority": "LOW PRIORITY",
+    "status": "In Progress",
+    "createdAt": "2025-09-07"
+  },
+  {
+    "id": 10015,
+    "title": "Data export not working",
+    "description": "CSV export fails with timeout error.",
+    "customer": "Olivia Martinez",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-06"
+  }
+]
