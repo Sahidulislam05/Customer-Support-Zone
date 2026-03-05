@@ -25,7 +25,7 @@ const Navbar = () => {
             </div>
 
             <div>
-              <button className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white rounded mt-2 md:mt-0">
+              <button className="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white rounded mt-2 md:mt-0">
                 + New Ticket
               </button>
             </div>
